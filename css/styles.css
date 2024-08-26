@@ -1,1 +1,8 @@
-/* ini csss */
+/* ini css */
+.logo-icon {
+    height: 60px;
+    width: 60px;
+    background-image: url(https://picsum.photos/200);
+    background-size: cover;
+    border-radius: 50px;
+}
